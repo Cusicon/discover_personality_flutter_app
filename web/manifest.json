@@ -1,6 +1,6 @@
 {
-    "name": "app_one",
-    "short_name": "app_one",
+    "name": "discover_personality",
+    "short_name": "discover_personality",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
